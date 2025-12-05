@@ -1,0 +1,93 @@
+[
+  {
+    "monedaOrigen": "USD",
+    "monedaDestino": "ARS",
+    "monto": 400.0,
+    "resultado": 581432.0,
+    "fechaHora": "2025-12-02T22:46:03.7157187"
+  },
+  {
+    "monedaOrigen": "JPY",
+    "monedaDestino": "ARS",
+    "monto": 1000.0,
+    "resultado": 9324.9,
+    "fechaHora": "2025-12-02T22:48:56.4964798"
+  },
+  {
+    "monedaOrigen": "CLP",
+    "monedaDestino": "ARS",
+    "monto": 120000.0,
+    "resultado": 187956.0,
+    "fechaHora": "2025-12-02T22:49:47.6326646"
+  },
+  {
+    "monedaOrigen": "CLP",
+    "monedaDestino": "ARS",
+    "monto": 1000.0,
+    "resultado": 1566.3,
+    "fechaHora": "2025-12-02T22:50:08.8445516"
+  },
+  {
+    "monedaOrigen": "CLP",
+    "monedaDestino": "ARS",
+    "monto": 100000.0,
+    "resultado": 156630.0,
+    "fechaHora": "2025-12-02T22:56:43.9476857"
+  },
+  {
+    "monedaOrigen": "CLP",
+    "monedaDestino": "ARS",
+    "monto": 100000.0,
+    "resultado": 156630.0,
+    "fechaHora": "2025-12-02T22:57:42.4892164"
+  },
+  {
+    "monedaOrigen": "BRL",
+    "monedaDestino": "ARS",
+    "monto": 3000.0,
+    "resultado": 814017.8999999999,
+    "fechaHora": "2025-12-02T22:59:35.2323784"
+  },
+  {
+    "monedaOrigen": "CLP",
+    "monedaDestino": "ARS",
+    "monto": 100000.0,
+    "resultado": 156630.0,
+    "fechaHora": "2025-12-02T23:11:31.4948351"
+  },
+  {
+    "monedaOrigen": "ARS",
+    "monedaDestino": "ARS",
+    "monto": 200000.0,
+    "resultado": 200000.0,
+    "fechaHora": "2025-12-02T23:14:07.2709106"
+  },
+  {
+    "monedaOrigen": "ARS",
+    "monedaDestino": "CLP",
+    "monto": 190000.0,
+    "resultado": 120669.0,
+    "fechaHora": "2025-12-04T20:36:50.1975319"
+  },
+  {
+    "monedaOrigen": "CLP",
+    "monedaDestino": "ARS",
+    "monto": 1000.0,
+    "resultado": 1574.5,
+    "fechaHora": "2025-12-04T20:37:30.614747"
+  },
+  {
+    "monedaOrigen": "ARS",
+    "monedaDestino": "CLP",
+    "monto": 1000.0,
+    "resultado": 635.1,
+    "fechaHora": "2025-12-04T20:56:05.804935"
+  },
+  {
+    "monedaOrigen": "ARS",
+    "monedaDestino": "CLP",
+    "monto": 1000.0,
+    "resultado": 634.7,
+    "fechaHora": "2025-12-04T21:06:26.8298021"
+  }
+]
